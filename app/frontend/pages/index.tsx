@@ -83,7 +83,7 @@ export default function Home() {
         <form className={styles.form} action="POST" onSubmit={handleSubmit}>
           <header>
             <Image className={styles.page__logo} src={logo} alt="NG.CASH" />
-            <p>Login</p>
+            <p>login</p>
           </header>
           <div className={styles['form__input-container']}>
             <input
