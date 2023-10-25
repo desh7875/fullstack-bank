@@ -71,7 +71,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <Head>
-        <title>DW.CASH - Login</title>
+        <title>DW.CASH - login</title>
         <meta
           name="description"
           content="Projeto fullstack de carteira digital"
